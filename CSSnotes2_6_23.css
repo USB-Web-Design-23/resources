@@ -1,0 +1,32 @@
+body {
+	color: mediumvioletred;
+	background-color: burlywood;
+	font-size: 54px;
+	font-family: Comic Sans MS;
+}
+
+p {
+	color: royalblue;
+	font-size: 24px;
+	text-align: center;
+}
+
+.Funky {
+	background-color: aliceblue;
+	font-family: fantasy;
+	text-shadow: 2px 2px black;
+}
+
+.happy {
+	background-color: lawngreen;
+	color: black;
+	font-size: 30px;
+	border: 5px solid black;
+}
+
+.sad {
+	text-align: right;
+	color: burlywood;
+	background-color: tomato;
+	border: 10px double;
+}
